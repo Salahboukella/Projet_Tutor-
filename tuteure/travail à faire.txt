@@ -1,0 +1,18 @@
+Données et Applications:
+1) Base de données:
+- CASIA-PalmprintV1
+- CASIA-Multispectral-Palmplrint (une seule bande spectrale: GREEN)
+2) Matlab (à installer)
+3) Programmes pour l'extraction de caractéristiques: Local Binary 
+Pattern (LBP)
+
+Travail à faire:
+1) Tester le programme LBP sous matlab sur quelques images de la base de 
+données.
+(voir le code testLBP.m)
+2) Faire une recherche sur la correspondance (en anglais Matching) entre 
+les vecteurs de caractéristiques (Histogramme LBP): par exepmle, la 
+distance Euclidienne aussi la distance de Hamming.
+
+--
+Larbi
